@@ -59,12 +59,11 @@ export const Home = () => {
 
   return (
     <>
-      <div className="container">
+      <div className='container'>
         <Head>
-          <title>Create Next App</title>
+          <title>The Sphere</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
-        <Header />
         <TokenBalances />
       </div>
 
